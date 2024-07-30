@@ -1,4 +1,4 @@
-# Apply filters to SQL queries
+# SQL-Based Investigation of Suspicious Logins and Security Updates
 
 
 ## Project description
